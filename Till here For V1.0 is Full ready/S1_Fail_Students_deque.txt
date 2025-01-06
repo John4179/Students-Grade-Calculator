@@ -1,0 +1,10 @@
+Name Surname FinalGrade
+Name6 Surname2 4.6667
+Name18 Surname2 4.47086
+Name2 Surname2 4.0021
+Name20 Surname2 3.72753
+Name16 Surname2 3.48432
+Name14 Surname2 3.42632
+Name5 Surname1 3.30177
+Name17 Surname1 3.22968
+Name11 Surname1 3.18169
